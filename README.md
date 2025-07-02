@@ -15,5 +15,3 @@ Within this file, include the following contents:
 ```
 I sign the Contributor License Agreement as it is currently written in [CLA.md](../CLA.md).
 ```
-
-You can see an example of this process at [#1](https://github.com/ZeppelinBot/CLA/pull/1).
