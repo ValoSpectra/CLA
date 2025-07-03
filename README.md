@@ -15,3 +15,5 @@ Within this file, include the following contents:
 ```
 I sign the Contributor License Agreement as it is currently written in [CLA.md](../CLA.md).
 ```
+
+An example of a proper PR can be found [here](https://github.com/ValoSpectra/CLA/pull/1).
