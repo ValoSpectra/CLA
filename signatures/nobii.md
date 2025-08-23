@@ -1,0 +1,1 @@
+I sign the Contributor License Agreement as it is currently written in [CLA.md](https://github.com/ValoSpectra/CLA/blob/main/CLA.md).
